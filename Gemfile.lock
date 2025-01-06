@@ -150,6 +150,9 @@ GEM
     jekyll-twitter-plugin (2.1.0)
     jekyll-watch (2.2.1)
       listen (~> 3.0)
+    jekyll-wikirefs (0.0.15)
+      jekyll
+      nokogiri (~> 1.13.3)
     jemoji (0.13.0)
       gemoji (>= 3, < 5)
       html-pipeline (~> 2.2)
@@ -179,24 +182,8 @@ GEM
       bigdecimal (~> 3.1)
     namae (1.2.0)
       racc (~> 1.7)
-    nokogiri (1.18.1)
-      mini_portile2 (~> 2.8.2)
-      racc (~> 1.4)
-    nokogiri (1.18.1-aarch64-linux-gnu)
-      racc (~> 1.4)
-    nokogiri (1.18.1-aarch64-linux-musl)
-      racc (~> 1.4)
-    nokogiri (1.18.1-arm-linux-gnu)
-      racc (~> 1.4)
-    nokogiri (1.18.1-arm-linux-musl)
-      racc (~> 1.4)
-    nokogiri (1.18.1-arm64-darwin)
-      racc (~> 1.4)
-    nokogiri (1.18.1-x86_64-darwin)
-      racc (~> 1.4)
-    nokogiri (1.18.1-x86_64-linux-gnu)
-      racc (~> 1.4)
-    nokogiri (1.18.1-x86_64-linux-musl)
+    nokogiri (1.13.10)
+      mini_portile2 (~> 2.8.0)
       racc (~> 1.4)
     observer (0.1.2)
     ostruct (0.6.1)
@@ -285,6 +272,7 @@ DEPENDENCIES
   jekyll-tabs
   jekyll-toc
   jekyll-twitter-plugin
+  jekyll-wikirefs
   jemoji
   observer
   ostruct
