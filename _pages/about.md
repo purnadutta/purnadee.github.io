@@ -19,7 +19,7 @@ social: true  # includes social icons at the bottom of the page
 posts: false
 ---
 
-I am a PhD student in the [Manning CICS](https://www.cics.umass.edu/) at the [University of Massachusetts Amherst](https://en.wikipedia.org/wiki/University_of_Massachusetts_Amherst), where I am advised by [Dr. Mohammad Hajiesmaili](https://groups.cs.umass.edu/hajiesmaili/) at the [SOLAR Lab](https://solar.cs.umass.edu/).
+Hello, I am a PhD student in the [Manning CICS](https://www.cics.umass.edu/) at the [University of Massachusetts Amherst](https://en.wikipedia.org/wiki/University_of_Massachusetts_Amherst), where I am advised by [Dr. Mohammad Hajiesmaili](https://groups.cs.umass.edu/hajiesmaili/) at the [SOLAR Lab](https://solar.cs.umass.edu/).
 
 Broadly, I am interested in optimization, information theory, and learning theory. Currently, I work on making [online algorithms](https://en.wikipedia.org/wiki/Online_algorithm) for network caching and formally prove their performance guarantees. During my graduate studies, I have also worked on [computer algebra](https://en.wikipedia.org/wiki/Computer_algebra), [probabilistic graphical models](https://en.wikipedia.org/wiki/Graphical_model) and [computational complexity](https://en.wikipedia.org/wiki/Computational_complexity). 
 
