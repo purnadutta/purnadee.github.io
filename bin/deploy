@@ -43,7 +43,7 @@ while [[ $# > 0 ]]; do
 done
 
 # Exit if any subcommand fails
-set -e
+# set -e
 
 echo "Deploying..."
 echo "Source branch: $SRC_BRANCH"
@@ -95,10 +95,10 @@ export JEKYLL_ENV=production
 # Build site
 bundle exec jekyll build
 
-# Purge unused css
-echo "Before Purgecss "
-purgecss -c purgecss.config.js
-echo "After Purgecss"
+# # Purge unused css
+# echo "Before Purgecss "
+# purgecss -c purgecss.config.js
+# echo "After Purgecss"
 
 # Delete and move files
 find . -maxdepth 1 ! -name '_site' ! -name '.git' ! -name 'CNAME' ! -name '.gitignore' -exec rm -rf {} \;
