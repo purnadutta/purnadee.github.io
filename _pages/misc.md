@@ -1,7 +1,7 @@
 ---
 layout: page
-title: false
-permalink: /misc/
+title: Miscellaneous
+permalink: /Misc/
 description: 
 nav: true
 nav_order: 1

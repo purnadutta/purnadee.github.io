@@ -1,7 +1,6 @@
 ---
 layout: post
-start_date: May 2022
-end_date: Jul 2022
+date_range: "May 2022 – Jul 2022"
 inline: true
 ---
 
