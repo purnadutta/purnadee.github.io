@@ -90,8 +90,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # dblp_url: # your DBLP profile url
 # stackoverflow_id: #your stackoverflow id
 
-contact_note: >
-  Ping me on Twitter!
+contact_note: 
 
 # <meta name="google-site-verification" content="StciUgNJIeNMcpp3ckOUsfpzngKqEZpjl4wllWi8r-4" />
 google_analytics:  G-FKBC748YS4 # your google-analytics ID (format: UA-XXXXXXXXX)
