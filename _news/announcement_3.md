@@ -1,9 +1,9 @@
 ---
 layout: post
 title: A long announcement with details
-start_date: May 2022
-end_date: Jul 2022
+date: Aug 1, 2023
+
 inline: true #false
 ---
 
-Aug 2023 – Apr 2024: Visiting student at [The Institute of Mathematical Sciences, Chennai](https://www.imsc.res.in/)
+Visiting student for a year at [The Institute of Mathematical Sciences, Chennai](https://www.imsc.res.in/)

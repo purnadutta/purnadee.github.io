@@ -1,13 +1,12 @@
 ---
 layout: post
 title: A long announcement with details
-start_date: May 2022
-end_date: Jul 2022
+date: Jun 15, 2023
 
 inline: true #false
 ---
 
-Aug 2023 – Apr 2024: Visiting student at [The Institute of Mathematical Sciences, Chennai](https://www.imsc.res.in/)
+Attendee at [instructional school on Algorithmic Graph Theory](https://www.atmschools.org/school/2023/AIS/agt) at [Indian Institute of Technology, Indore](https://www.iiti.ac.in/)
 
 <!-- Announcements and news can be much longer than just quick inline posts. In fact, they can have all the features available for the standard blog posts. See below.
 
