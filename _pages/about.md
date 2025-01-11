@@ -18,7 +18,7 @@ posts: false
 
 Hi, I am a first-year PhD student at [University of Massachusetts Amherst](https://www.umass.edu/) with the [theoretical computer science group](https://groups.cs.umass.edu/theory/). I am very fortunate to be advised by [Prof. Hung Le](https://hunglvosu.github.io/) and [Prof. Andrew McGregor](https://people.cs.umass.edu/~mcgregor/).
 
-I finished my BS and MS in Mathematics and Computer Science from [Indian Institute of Science Education and Research, Berhampur](https://www.iiserbpr.ac.in/). I pursued my MS thesis project in theoretical computer science under the guidance of [Prof. Saket Saurabh](https://sites.google.com/view/sakethome) at [The Institute of Mathematical Sciences, Chennai](https://www.imsc.res.in/).
+I finished BS and MS in Mathematics and Computer Science from [Indian Institute of Science Education and Research, Berhampur](https://www.iiserbpr.ac.in/). I pursued my MS thesis project in theoretical computer science under the guidance of [Prof. Saket Saurabh](https://sites.google.com/view/sakethome) at [The Institute of Mathematical Sciences, Chennai](https://www.imsc.res.in/).
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
