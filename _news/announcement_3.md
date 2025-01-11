@@ -1,8 +1,8 @@
 ---
 layout: post
 title: A long announcement with details
-date: 2022-08-10
+date: May 2022 – Jul 2022
 inline: true #false
 ---
 
-Our paper on [Universal Caching](https://arxiv.org/pdf/2205.04860.pdf) has been accepted to [ITW 2022](https://itw2022.in/).
+DAAD-WISE intern at [Technical University, Berlin](https://www.tu.berlin/en/)

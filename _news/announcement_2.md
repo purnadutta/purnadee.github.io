@@ -1,11 +1,11 @@
 ---
 layout: post
 title: A long announcement with details
-date: 2021-07-10
+date: Aug 2023 – Apr 2024
 inline: true #false
 ---
 
-Joined as a Research Assistant at the [Learning and Networks Group, TIFR](https://www.tifr.res.in/~abhishek.sinha/group.html).
+Visiting student at [The Institute of Mathematical Sciences, Chennai](https://www.imsc.res.in/)
 
 <!-- Announcements and news can be much longer than just quick inline posts. In fact, they can have all the features available for the standard blog posts. See below.
 

@@ -2,8 +2,8 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Purna's webpage # the website title (if blank, full name will be used instead)
-first_name: Purna
+title: blank # the website title (if blank, full name will be used instead)
+first_name: P urna
 middle_name:
 last_name: Dutta
 email: purnadutta@umass.edu

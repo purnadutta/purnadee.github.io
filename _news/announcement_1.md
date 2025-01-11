@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2019-08-01 
+date: Aug 2023 – Apr 2024
 inline: true
 ---
 
-Graduated from Ahmedabad University and joined CMI as a Master's student.
+Visiting student at [The Institute of Mathematical Sciences, Chennai](https://www.imsc.res.in/)

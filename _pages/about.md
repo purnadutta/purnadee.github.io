@@ -2,32 +2,23 @@
 layout: about
 title: about
 permalink: /
-subtitle: > 
-    <!-- Research Assistant @ <a href='https://www.tifr.res.in/~abhishek.sinha/group.html'> TIFR </a> <BR> -->
-    <!-- Previously: M.Sc, CS @ <a href='https://www.cmi.ac.in/'> CMI </a> and B.Tech, ICT @ <a href='https://ahduni.edu.in/academics/schools-centres/school-of-engineering-and-applied-science/'> SEAS, AU </a> -->
+subtitle: 
 profile:
   align: right
-  image: prof_pic_with_cactus_square.jpg
-  # adDr.ess: >
-  #   <p>555 your office number</p>
-  #   <p>123 your adDr.ess street</p>
-  #   <p>Your City, State 12345</p>
+  image: prof_pic.jpg
+  contact: >
+    <p>purnadutta@umass.edu</p>
+    <p>purnadutta08@gmail.com</p>
 
 news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: false  # includes social icons at the bottom of the page
 posts: false
 ---
 
-Hello, I am a PhD student in the [Manning CICS](https://www.cics.umass.edu/) at the [University of Massachusetts Amherst](https://en.wikipedia.org/wiki/University_of_Massachusetts_Amherst), where I am advised by [Dr. Mohammad Hajiesmaili](https://groups.cs.umass.edu/hajiesmaili/) at the [SOLAR Lab](https://solar.cs.umass.edu/).
+Hi, I am a first-year PhD student at [University of Massachusetts Amherst](https://www.umass.edu/) with the [theoretical computer science group](https://groups.cs.umass.edu/theory/). I am very fortunate to be advised by [Prof. Hung Le](https://hunglvosu.github.io/) and [Prof. Andrew McGregor](https://people.cs.umass.edu/~mcgregor/).
 
-Broadly, I am interested in optimization, information theory, and learning theory. Currently, I work on making [online algorithms](https://en.wikipedia.org/wiki/Online_algorithm) for network caching and formally prove their performance guarantees. During my graduate studies, I have also worked on [computer algebra](https://en.wikipedia.org/wiki/Computer_algebra), [probabilistic graphical models](https://en.wikipedia.org/wiki/Graphical_model) and [computational complexity](https://en.wikipedia.org/wiki/Computational_complexity). 
-
-Prior to this, I was a Research Assistant at the [Learning and Networks Group](https://www.tifr.res.in/~abhishek.sinha/group.html), TIFR led by [Dr. Abhishek Sinha](https://www.tifr.res.in/~abhishek.sinha/). I obtained my masters' in Computer Science from [Chennai Mathematical Institute](https://www.cmi.ac.in//) (CMI) and my BTech in Information and Communication Technology from [Ahmedabad University](https://ahduni.edu.in/academics/schools-centres/school-of-engineering-and-applied-science/).
-
-<!-- As an undergrad, I was a research intern at IIT-Gandhinagar in 2017 and a summer student at Institute of Mathematical Sciences, Chennai in 2018. I completed my BTech project at CMI where I was advised by Dr. [Partha Mukhopadhyay](https://www.cmi.ac.in/~partham/), and my master’s thesis with Dr. [Navin Kashyap](https://ece.iisc.ac.in/~nkashyap/) at Indian Institute of Science, Bangalore. -->
-
-<!-- My CV can be found [here]({{site.url}}/assets/pdf/Resume_Ativ.pdf){:target="_blank"}. -->
+I finished my BS and MS in Mathematics and Computer Science from [Indian Institute of Science Education and Research, Berhampur](https://www.iiserbpr.ac.in/). I pursued my MS thesis project in theoretical computer science under the guidance of [Prof. Saket Saurabh](https://sites.google.com/view/sakethome) at [The Institute of Mathematical Sciences, Chennai](https://www.imsc.res.in/).
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
