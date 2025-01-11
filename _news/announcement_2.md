@@ -1,11 +1,11 @@
 ---
 layout: post
 title: A long announcement with details
-date: Aug 2023 – Apr 2024
+date: 
 inline: true #false
 ---
 
-Visiting student at [The Institute of Mathematical Sciences, Chennai](https://www.imsc.res.in/)
+Aug 2023 – Apr 2024: Visiting student at [The Institute of Mathematical Sciences, Chennai](https://www.imsc.res.in/)
 
 <!-- Announcements and news can be much longer than just quick inline posts. In fact, they can have all the features available for the standard blog posts. See below.
 
