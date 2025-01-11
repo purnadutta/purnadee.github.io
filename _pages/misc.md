@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Miscellaneous
-permalink: /Misc/
+title: Misc.
+permalink: /misc/
 description: 
 nav: true
 nav_order: 1
@@ -9,7 +9,7 @@ display_categories:
 horizontal: true
 ---
 
-## Graduate Application
+### Graduate Application
 
 Applicant support programs for CS PhD:
 
@@ -24,7 +24,7 @@ Other useful resources:
 - [CS PhD SoP repository](https://cs-sop.notion.site/CS-PhD-Statements-of-Purpose-df39955313834889b7ac5411c37b958d)
 - [Lucy Lai's blog](https://lucy-lai.com/blog/gradapps)
 
-## Bookmarks
+### Bookmarks
 
 - [Search inside π](https://www.angio.net/pi/)
 - [UIUC Fellowship Finder](https://apps.grad.illinois.edu/fellowship-finder/)
