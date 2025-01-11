@@ -1,6 +1,6 @@
 ---
 layout: page
-title: experience
+title: false
 permalink: /misc/
 description: 
 nav: true
