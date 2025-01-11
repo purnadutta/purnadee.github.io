@@ -2,15 +2,15 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
-first_name: Ativ
+title: Purna's webpage # the website title (if blank, full name will be used instead)
+first_name: Purna
 middle_name:
-last_name: Joshi
-email: ativsc@gmail.com
+last_name: Dutta
+email: purnadutta@umass.edu
 # contact_note: >
 #   You can even add a little note about which of these is the best way to reach you.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
- Ativ's personal website.
+ Purna's personal website.
 # footer_text: >
 #   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
 #   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
@@ -381,7 +381,7 @@ external_links:
 # MAKE SURE imagemagick is installed and on your PATH before enabling imagemagick. In a terminal, run:
 #   convert -version
 imagemagick:
-  enabled: true # enables responsive images for your site (recommended, see https://github.com/alshedivat/al-folio/issues/537)
+  enabled: false # enables responsive images for your site (recommended, see https://github.com/alshedivat/al-folio/issues/537)
   widths:
     - 480
     - 800
