@@ -6,4 +6,4 @@ end_date: Jul 2022
 inline: true #false
 ---
 
-May 2022 – Jul 2022: DAAD-WISE intern at [Technical University, Berlin](https://www.tu.berlin/en/)
+Aug 2023 – Apr 2024: Visiting student at [The Institute of Mathematical Sciences, Chennai](https://www.imsc.res.in/)
